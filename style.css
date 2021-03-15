@@ -1,0 +1,148 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Noto Serif TC', serif;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: ghostwhite;
+}
+
+div{
+	font-size: 14px;
+}
+
+h1{
+	padding: 8px 5%;
+	font-size: 35px;
+	cursor: default;
+	background-color: gainsboro;
+	box-shadow: 0px -3px 6px 3px gray;
+}
+
+h1 span{
+	font-size: 15px;
+	color: gray;
+	padding-left: 6px;
+}
+
+h1 a{
+	text-decoration: none;
+}
+
+#data-source{
+	padding: 5px 5% 0px 5%;
+	font-size: 13px;
+	color: gray;
+}
+
+#data-source a{
+	color: lightskyblue;
+	text-decoration: none;
+}
+
+#update-freq{
+	font-size: 13px;
+	font-weight: bold;
+	padding: 5px 5%;
+	color: maroon;
+}
+
+#hint{
+	padding: 15px 5% 0px 5%;
+	color: gray;
+	font-size: 15px;
+	display: none;
+}
+
+#form-wrapper{
+	text-align: center;
+	font-size: 14px;
+}
+
+#county-sel{
+	width: 35%;
+	height: 25px;
+	background-color: inherit;
+}
+
+#area-sel{
+	width: 35%;
+	height: 25px;
+	background-color: inherit;
+}
+
+option{
+	background-color: inherit;
+}
+
+#query-btn{
+	width: 20%;
+	background-color: cadetblue;
+	border: none;
+	color: ghostwhite;
+	height: 25px;
+	border-radius: 3px;
+}
+
+#result-div{
+	padding: 0px 12px 15px 12px;
+	display: none;
+}
+
+.result-row{
+	padding: 10px 0px;
+	border-bottom: dotted lightgray 1px;
+}
+
+.result-name{
+	clear: both;
+	font-size: 20px;
+	font-weight: bold;
+	color: darkblue;
+}
+
+.result-phone{
+	font-size: 13px;
+	float: left;
+}
+
+.result-address{
+	color: maroon;
+	font-size: 13px;
+	float: left;
+	padding-left: 5px;
+}
+
+.result-adult{
+	font-weight: bold;
+	clear: both;
+	float: left;
+	width: 30%;
+	text-align: center;
+	font-size: 15px;
+}
+
+.result-child{
+	font-weight: bold;
+	float: left;
+	width: 30%;
+	text-align: center;
+	font-size: 15px;
+}
+
+.result-time{
+	color: gray;
+	font-size: 10px;
+	clear: both;
+	float: right;
+}
+
+.map-link{
+	color: darkgray;
+}
+
+.clear-both{
+	clear: both;
+}
