@@ -7,4 +7,4 @@ Using:
 * Python (crawling data from [健康保險資料開放服務(健保特約機構口罩剩餘數量明細清單)](https://data.nhi.gov.tw/Datasets/DatasetDetail.aspx?id=656))
 * MongoDB
 
-[Demo site](http://172.105.209.203:8000/)
+[Demo site](https://mask.kiloapp.cc)

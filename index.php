@@ -13,7 +13,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-	<h1>口罩庫存<a href="/"><span>http://mask.thekilo.cc</span></a></h1>
+	<h1>口罩庫存<a href="/"><span>mask.kiloapp.cc</span></a></h1>
 	<div id="data-source">資料來源: <a href="https://data.nhi.gov.tw/Datasets/DatasetDetail.aspx?id=656">健康保險資料開放服務(健保特約機構口罩剩餘數量明細清單)</a></div>
 	<div id="update-freq">每5分鐘更新!</div>
 	<div id="form-wrapper">
